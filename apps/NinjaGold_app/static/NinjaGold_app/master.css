@@ -1,1 +1,40 @@
-body { background-color:pink }
+
+.outline {
+    border: 2px solid black;
+}
+.container {
+    padding: 2%;
+}
+button {
+    background-color: lightgray;
+}
+input {
+    display: inline-block;
+}
+form {
+    display: inline-block;
+}
+.building {
+    display: inline-block;
+    min-width: 13%;
+    min-height: 18%;
+    padding: 2%;
+    margin: 1%;
+}
+
+.ActivitiesBox {
+    min-height: 80%;
+    min-width: 100%;
+    display: inline-block;
+}
+.Activities {
+    width: inherit;
+    min-height: 80%;
+    margin: 1%;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
